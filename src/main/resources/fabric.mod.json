@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "superbreaker",
 	"version": "${version}",
-	"name": "Superbreaker mod",
+	"name": "Super Breaker",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
 		"Me!"
