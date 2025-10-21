@@ -5,6 +5,6 @@ import net.fabricmc.api.ModInitializer;
 public class SuperbreakerMod implements ModInitializer {
     @Override
     public void onInitialize() {
-        ModItems.registerItems();
+        System.out.println("Super Breaker mod loaded!");
     }
 }
